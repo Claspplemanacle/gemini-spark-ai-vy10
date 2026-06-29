@@ -1,4 +1,4 @@
-# 
+# Gratuito Gemini Spark herramientas. Con búsqueda semántica y integración de base de datos vectorial — optimizado para el máximo rendimiento y eficiencia.
 
 
 
